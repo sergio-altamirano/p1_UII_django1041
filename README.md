@@ -15,4 +15,4 @@ para trabajar con el fameworb de Django
 - 11 creando el proyecto --> django-admin startproject webtaqueria_proy .
 - 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 ejecutar servidor web --> python manage.py runserver
-- 14 me trabajo el proyecto
+- 14 me trabajo el proyecto --> http://127.0.0.1:8000/
