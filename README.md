@@ -13,5 +13,5 @@ para trabajar con el fameworb de Django
 - 9 activar pi --> python -m pip install --upgrade pip
 - 10 instalar Django --> python -m pip install django
 - 11 creando el proyecto --> django-admin startproject webtaqueria_proy .
-- 12 Realizar migracion al proyecto
+- 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 ejecutar servidor web --> python manage.py runserver
